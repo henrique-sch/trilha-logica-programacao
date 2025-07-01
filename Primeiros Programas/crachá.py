@@ -1,0 +1,11 @@
+nome = input('Digite seu nome: ')
+idade = input('Digite sua idade: ')
+linguagem = input('Digite sua linguagem favorita: ')
+emoji = input('Insira um emoji: ')
+
+print(10*'-')
+print('Nome: '+nome+"\n")
+print('Idade: '+idade+"\n")
+print('Linguagem favorita: '+linguagem+"\n")
+print('Emoji: '+emoji+"\n")
+print(10*'-')
